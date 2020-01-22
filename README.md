@@ -10,7 +10,8 @@ The description of the columns is found at Kaggle's website
 
 
 Mission
-Kellogg's will one of the main sponsors of the next Olympic games. They tasked you with an analysis of the athletes 
+
+Kellogg's will be one of the main sponsors of the next Olympic games. They tasked you with an analysis of the athletes 
 to select the right sport and athlete to sponsor.
 
 This report includes the code and an explanatory text for each of the following:
